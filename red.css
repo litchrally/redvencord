@@ -1461,7 +1461,7 @@
 }
 
 .cardFolder-3H4uH4 {
-    background: #282828;
+    background: #000;
 }
 
 .group-LWHoGI,
@@ -3360,7 +3360,7 @@
 
 .expandedFolderBackground-1kSAf6 {
     background-color: transparent;
-    border: 1px solid rgba(255, 255, 255, .2);
+    border: 1px solid rgba(2, 2, 2, .2);
 }
 
 #app-mount .folder-241Joy {
