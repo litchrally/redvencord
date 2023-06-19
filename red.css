@@ -40,11 +40,11 @@
 }
 
 .iconBadge-3Mmg92 {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .theme-dark .tooltipPrimary-2466a2 {
-    background-color: #616161;
+    background-color: #000;
 }
 
 .theme-dark .tooltip-33Jwqe {
@@ -88,7 +88,7 @@
 
 .side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, 
 .topPill-2vcLsa .themed-qqoYp3.selected-1sf9UK.item-2GWPIy {
-    background-color: #FF0000 !important;
+    background-color: #9975bb !important;
 }
 
 .selected-1sf9UK.item-2GWPIy, 
@@ -140,7 +140,7 @@
 }
 
 .tutorialIcon-25VF3Q {
-    background-color: #FF0000;
+    background-color: #9975bb;
     color: white;
 }
 
@@ -241,12 +241,12 @@
 .unreadPill-3nEWYM {
     border-radius: 0 30px 30px 0;
     color: white;
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .unreadPillCapStroke-1nE1Q8 {
-    color: #FF0000;
-    fill: #FF0000;
+    color: #9975bb;
+    fill: #9975bb;
 }
 
 .embedFull-1HGV2S {
@@ -283,7 +283,7 @@
 }
 
 .icon-2yhmi8 {
-    background-color: #FF0000;
+    background-color: #9975bb;
     color: white;
 }
 
@@ -463,7 +463,7 @@
 
 .top-Ktfr_T .selected-1sf9UK.themed-qqoYp3.item-2GWPIy, 
 .top-Ktfr_T .themed-qqoYp3.item-2GWPIy:active {
-    border-bottom-color: #FF0000;
+    border-bottom-color: #9975bb;
 }
 
 .listRow-2nO1T6 {
@@ -475,7 +475,7 @@
 }
 
 .wanderingCubes-2A046F .item-2VgEex {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .theme-dark .activityProfile-1712BN .activityName-3YXl6e,
@@ -660,7 +660,7 @@
 }
 
 .auto-2TJ1RH::-webkit-scrollbar-thumb {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .auto-2TJ1RH::-webkit-scrollbar-thumb, 
@@ -730,7 +730,7 @@
 }
 
 .icon-mJhEWn {
-    background-color: #FF0000;
+    background-color: #9975bb;
     color: white;
 }
 
@@ -781,17 +781,17 @@
 .attachment-16cAbS, 
 .avatar-l9Txm5, 
 .blob-1uHjdp {
-    background-color: #FF0000;
+    background-color: #9975bb;
     opacity: .3 !important;
 }
 
 .mention-3XBnnZ {
-    background-color: #FF0000;
+    background-color: #9975bb;
     opacity: .7;
 }
 
 .mention-3XBnnZ:active {
-    background-color: #FF0000;
+    background-color: #9975bb;
     opacity: 1;
 }
 
@@ -807,7 +807,7 @@
 .mediaBarProgress-38I317:before,
 .mediaBarInteraction-tUE5dq:hover .mediaBarGrabber-FvJKJg,
 .mediaBarInteractionDragging-3XLL8k .mediaBarGrabber-FvJKJg {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .customItem-1KYL7t {
@@ -838,7 +838,7 @@
 }
 
 .emptyChannelIcon-1YdEz2 {
-    background-color: #FF0000;
+    background-color: #9975bb;
     border: 2px solid rgba(255, 255, 255, .7);
 }
 
@@ -855,7 +855,7 @@
 }
 
 .numberBadge-37OJ3S[style*="background-color:"] {
-    background-color: #FF0000 !important;
+    background-color: #9975bb !important;
 }
 
 #app-mount .role-23oyrw {
@@ -883,7 +883,7 @@
 
 .button-3bklZh.selected-69H4ua {
     color: white;
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .header-11eigE {
@@ -902,7 +902,7 @@
 .thin-RnSY0a::-webkit-scrollbar-thumb {
     border: none;
     border-radius: 2px;
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .thin-RnSY0a::-webkit-scrollbar-track {
@@ -951,7 +951,7 @@
 }
 
 .newMessagesBar-1hF-9G {
-    background-color: #FF0000;
+    background-color: #9975bb;
     box-shadow: none;
 }
 
@@ -1004,7 +1004,7 @@
 
 .jumpToPresentBar-1cEnH0 {
     border-radius: 30px 30px 0 0;
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .attachButtonPlus-3IYelE {
@@ -1087,7 +1087,7 @@
 }
 
 .selectedPill-3cOyS6 {
-    border-color: #FF0000!important;
+    border-color: #9975bb!important;
 }
 
 .theme-dark .optionPill-2kmuZR,
@@ -1137,7 +1137,7 @@
 .theme-dark .combo-3PNrpQ .key-RP8gj3 {
     color: #ffffff;
     box-shadow: inset 0 -4px 0 black;
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .theme-dark .combo-3PNrpQ .key-RP8gj3 .bindArrow-L3Mvw5 g {
@@ -1201,7 +1201,7 @@
 }
 .navButtonActive-1EqC5l,
 .navButtonActive-fwiUKp {
-    background-color: #FF0000 !important;
+    background-color: #9975bb !important;
 }
 .navButton-1XuvI- {
     border-radius: 50px;
@@ -1266,7 +1266,7 @@
 
 .categoryItemDefaultCategorySelected-2YeRUu, 
 .categoryItemDefaultCategorySelected-2YeRUu:hover {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .categoryItemDefaultCategorySelected-2YeRUu .categoryIcon-2cYeku, 
@@ -1341,7 +1341,7 @@
 }
 
 .bd-toast {
-    background-color: #FF0000;
+    background-color: #9975bb;
     border-radius: 15px;
     box-shadow: none;
 }
@@ -1532,7 +1532,7 @@
 }
 
 .iconWrapper-1sOtkE {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .icon-3TvnqF {
@@ -1577,7 +1577,7 @@
 }
 
 .channelIcon-2x-GOw {
-    color: #FF0000;
+    color: #9975bb;
 }
 
 .theme-dark .inviteRow-3vmB7i:hover {
@@ -1745,7 +1745,7 @@
 }
 
 .featureIcon-2sTnDK {
-    background-color: #FF0000;
+    background-color: #9975bb;
     border: 2px solid white;
 }
 
@@ -1778,7 +1778,7 @@
 }
 
 .textBadge-v9EW9y {
-    background-color: #FF0000 !important;
+    background-color: #9975bb !important;
     color: white;
 }
 
@@ -1793,7 +1793,7 @@
 }
 
 .textBadge-1fdDPJ[style*="background-color:"] {
-    background-color: #FF0000 !important;
+    background-color: #9975bb !important;
     color: white !Important;
     border-radius: 4px;
 }
@@ -1814,7 +1814,7 @@
 }
 
 .ruleIconContainer-dXW56- {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .ruleIcon-jIriNN {
@@ -1909,7 +1909,7 @@
 }
 
 .stepCountIcon-1A2Rxd {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .clickableContainer-3YtEIY,
@@ -2002,11 +2002,11 @@
 }
 
 .addItemContainer-KX1VaV path {
-    fill: #FF0000;
+    fill: #9975bb;
 }
 
 .addItemButton-Yt5S4N .text-md-normal-2rFCH3 {
-    color: #FF0000 !important;
+    color: #9975bb !important;
     font-weight: 600;
 }
 
@@ -2025,7 +2025,7 @@
 }
 
 .directoryModal-YJsOMv a {
-    color: #FF0000;
+    color: #9975bb;
     font-weight: 800;
 }
 
@@ -2211,11 +2211,11 @@
 .theme-dark .tierAccomplished-1I5NaT,
 .theme-dark .tierCurrent-2nowYi,
 .theme-dark .tierFirst-1Vn3wS {
-    background: #FF0000;
+    background: #9975bb;
 }
 
 .foreground-3_3Pgi {
-    color: #FF0000;
+    color: #9975bb;
 }
 
 .theme-dark .background-3xJH_4 {
@@ -2231,7 +2231,7 @@
 }
 
 .avatarUploaderInnerSquareDisabled-3M9eJS {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .container-3EtAkD {
@@ -2284,11 +2284,11 @@
 
 .top-Ktfr_T .brand-2EKq3J.item-2GWPIy:active, 
 .top-Ktfr_T .brand-2EKq3J.selected-1sf9UK.item-2GWPIy {
-    border-bottom-color: #FF0000;
+    border-bottom-color: #9975bb;
 }
 
 .previewContainer-1GxmBJ {
-    background: #FF0000;
+    background: #9975bb;
     border-radius: 50px;
 }
 
@@ -2310,7 +2310,7 @@
 }
 
 #app-mount .icon-3DnmvF {
-    color: #FF0000;
+    color: #9975bb;
 }
 
 .divider-2_8P_2 {
@@ -2319,7 +2319,7 @@
 
 .circle-2tR2Qh,
 .iconBadge-32fMme {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .theme-dark .activityIcon-vfIBet {
@@ -2327,7 +2327,7 @@
 }
 
 .typingIndicator-KF8hGa {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .dots-1BwzZQ.themed-3T-OPr {
@@ -2339,7 +2339,7 @@
 }
 
 .dots-2_b2Mn {
-    background-color: #FF0000;
+    background-color: #9975bb;
     border: 3px solid transparent;
 }
 
@@ -2348,7 +2348,7 @@
 }
 
 .progressBar-3fV-Dd[style*="background-color: var(--brand-500);"] {
-    background-color: #FF0000 !important;
+    background-color: #9975bb !important;
 }
 
 .upload-vLbqu- {
@@ -2400,7 +2400,7 @@
 }
 
 .iconContainer-2R-3M1 {
-    background-color: #FF0000;
+    background-color: #9975bb;
     color: white;
 }
 
@@ -2417,7 +2417,7 @@
 }
 
 .channelIcon-28tsYn {
-    color: #FF0000;
+    color: #9975bb;
 }
 
 .interactiveCard-2iMtdk.selected-sszUNx, 
@@ -2436,7 +2436,7 @@
 
 .modeSelected-3DmyhH .content-1gYQeQ, 
 .modeSelected-3DmyhH:hover .content-1gYQeQ {
-    background-color: #FF0000 !important;
+    background-color: #9975bb !important;
 }
 
 .modeSelected-3DmyhH .name-28HaxV,
@@ -2558,7 +2558,7 @@
 }
 
 .calendarPicker-sDhzdi .react-datepicker__day.react-datepicker__day--selected {
-    background-color: #FF0000 !important;
+    background-color: #9975bb !important;
     color: white !important;
 }
 
@@ -2603,7 +2603,7 @@
 }
 
 .rsvpCount-iCkObl {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .rsvpIcon-1R5Esx {
@@ -2673,7 +2673,7 @@
 }
 
 .unread-2wipsx {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .theme-dark .uploadModal-2ie9O_ {
@@ -2736,7 +2736,7 @@
 }
 
 .uploadDropModal-13Kd20 .bgScale-1iWuPF {
-    background: #FF0000;
+    background: #9975bb;
 }
 
 .uploadDropModal-13Kd20 .inner-rBP-MS {
@@ -2745,7 +2745,7 @@
 
 .unreadCount-eHeIkt {
     color: white;
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .container-1jQZ2U {
@@ -2769,13 +2769,13 @@
 }
 
 #app-mount .colorable-3rVGna.primaryDark-2UJt1G {
-    background: #FF0000;
+    background: #9975bb;
 }
 
 .border-2Vy6FN.speaking-7QZEkv,
 .avatarSpeaking-36V2PN,
 .avatarSpeaking-2pCGrZ {
-    box-shadow: inset 0 0 0 2px #FF0000,inset 0 0 0 4px black;
+    box-shadow: inset 0 0 0 2px #9975bb,inset 0 0 0 4px black;
 }
 
 .overlayTitle-2efoIF,
@@ -2816,11 +2816,11 @@
 
 .button-12Fmur.enabled-9OeuTA:hover {
     color: white;
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .backgroundOptionRing-1vvQ0C {
-    border: 2px solid #FF0000;
+    border: 2px solid #9975bb;
 }
 
 .backgroundOptionInner-SSz19O {
@@ -2828,7 +2828,7 @@
 }
 
 .tile-3POX2m:hover .sourceThumbnail-ERDcZE {
-    box-shadow: inset 0 0 0 2px #FF0000;
+    box-shadow: inset 0 0 0 2px #9975bb;
 }
 
 .modalHeader-3X0A4K,
@@ -2851,7 +2851,7 @@
 }
 
 .activityTag-3C3YK5 {
-    background-color: #FF0000;
+    background-color: #9975bb;
     border-radius: 40px;
     color: white !important;
     padding: 2px 7px;
@@ -2872,7 +2872,7 @@
 }
 
 .row-1qtctT:hover {
-    background-color: #FF0000;
+    background-color: #9975bb;
     color: white;
 }
 
@@ -3002,7 +3002,7 @@
 
 .countContainer-3uQ087,
 .countContainer-3DOo5v {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .separator-13F3xT {
@@ -3015,7 +3015,7 @@
 }
 
 .pinIcon-3I5-gm {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .container-2qVG6q:hover {
@@ -3062,7 +3062,7 @@
 }
 
 .iconWrapper-3FqQ75 {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .newPostsButton-UaBhcU {
@@ -3099,7 +3099,7 @@
 }
 
 #app-mount .addTags-26suzl {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .container-16urgA {
@@ -3354,7 +3354,7 @@
 }
 
 .item-2LIpTv {
-    background-color: #FF0000;
+    background-color: #9975bb;
     border-radius: 60px;
 }
 
@@ -3602,7 +3602,7 @@
 } 
 
 .selected-26oxtA {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .interactive-26HRN_,
@@ -3639,7 +3639,7 @@
 }
 
 .border-2BJQjd.speaking-3RWJBr {
-    box-shadow: inset 0 0 0 2px #FF0000,inset 0 0 0 4px black;
+    box-shadow: inset 0 0 0 2px #9975bb,inset 0 0 0 4px black;
 }
 
 .wrapper-1gVUIN.minimum-fXpVNc {
@@ -3648,7 +3648,7 @@
 }
 
 .status-1ZXjSF {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .theme-dark .quickSelectPopout-2F0PXw {
@@ -3731,11 +3731,11 @@
 }
 
 .contentCircle-15IFyT {
-    background-color: #FF0000;
+    background-color: #9975bb;
 }
 
 .gifIconContainer-3os21a {
-    background-color: #FF0000;
+    background-color: #9975bb;
     opacity: 1;
 }
 
@@ -3773,7 +3773,7 @@
 }
 
 .valuePropIconContainer-1WLjVd {
-    background-color: #FF0000;
+    background-color: #9975bb;
     color: white;
 }
 
@@ -3788,7 +3788,7 @@
 .guildSubscriberCountIcon-30JUGg,
 .guildSubscriptionSlotIcon-2EaGFn,
 .guildBoostingIcon-2B5iYK {
-    color: #FF0000;
+    color: #9975bb;
 }
 
 .circleBackgroundAlt-32_kWx {
@@ -3833,7 +3833,7 @@
 }
 
 .theme-dark .noItemsIcon-2OeOld {
-    background: #FF0000;
+    background: #9975bb;
 }
 
 .gameIcon-1mDo1J {
@@ -3965,7 +3965,7 @@
 
 .wrapper-SdcMKg {
     background-color: transparent;
-    border: 2px solid #FF0000;
+    border: 2px solid #9975bb;
 }
 
 .option-1QI4c9 {
